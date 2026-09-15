@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
+  "identifier": "com.thang2005vn.3105applestore",
   "name": "3105APPLESTORE",
   "description": "Kho package 3105 của VĂN THẮNG",
   "author": "VĂN THẮNG",
   "version": "1.0.0",
-  "packages": []
+  "packages": [
+    {
+      "identifier": "menu-3105-new",
+      "name": "MENU 3105 NEW",
+      "author": "VĂN THẮNG",
+      "version": "1.0.0",
+      "summary": "MENU 3105 NEW",
+      "description": "Package MENU 3105 NEW dành cho 3105.",
+      "category": "Tools",
+      "tags": [
+        "3105",
+        "Menu",
+        "iOS"
+      ],
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "download": "packages/MENU%203105%20NEW.3105",
+      "sha256": "a4e6db981a3ab78ead6b167dac5f5abbe445af7e5cb18b80bbb2759642bbf1c2",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "26.6.1"
+        }
+      ],
+      "changelog": "Phát hành MENU 3105 NEW phiên bản đầu tiên.",
+      "featured": true,
+      "isPrivate": false
+    }
+  ]
 }
